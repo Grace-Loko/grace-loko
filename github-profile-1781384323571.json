@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-06-13T20:58:43.568Z",
+  "profile": {
+    "title": "Grace-Loko",
+    "subtitle": "A aspiring programmer and developer.",
+    "currentWork": "Currently working on skills improvement on how git hub works as i learn different programming languages and how to apply them on day to day life.",
+    "currentLearn": "Different programing languages which include:-\n Java, javascript, SQL, HTML,CSS, C++, C, C#, Python and LINUX\n",
+    "collaborateOn": "Open source projects which will help in mastering and practicing my skills",
+    "helpWith": "Learning machine integration & automation, automation and scripting, web development, building digital tools, data analysis, Node.js, React and cyber security.",
+    "ama": "Web development. ",
+    "contact": "graceyloko@gmail.com",
+    "funFact": "Open minded.\nAlways ready and eager to learn new skills.\nPositive to critics and correction.",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "Grace-Loko",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "Gracey Loko",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "css3",
+    "html5"
+  ]
+}
